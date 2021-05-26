@@ -26,3 +26,8 @@
 !명령어 - 모든 명령어를 표시합니다.
 !버전 - 버전 및 제작자 소개
 ```
+
+## 미리보기
+
+<img src="https://i.ibb.co/p1L0hV1/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/XtQDQzX/2.png" alt="2" border="0">
