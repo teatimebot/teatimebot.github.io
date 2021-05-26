@@ -6,7 +6,7 @@
 
 ## 녹음고 BOT을 채널에 추가
 
-[설치하기](https://discord.com/api/oauth2/authorize?client_id=846933114252296232&permissions=3155968&scope=bot)
+<a href="https://discord.com/api/oauth2/authorize?client_id=846933114252296232&permissions=3155968&scope=bot" target="_blank">설치하기</a>
 
 ![img2](https://i.ibb.co/FKY4Lp6/image.png)
 
