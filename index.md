@@ -2,7 +2,7 @@
 
 ![img1](https://i.ibb.co/PM2KSmZ/f31e31-3bad903f99fc47b8be5d92aa9e7ea2f0-mv2.webp)
 
-[녹음고등학교](https://pham22.wixsite.com/recordinghighschool)의 보컬반은 매달 다양한 곡을 유튜브에 업로드하고 있습니다.
+<a href="https://pham22.wixsite.com/recordinghighschool" target="_blank">녹음고등학교</a>의 보컬반은 매달 다양한 곡을 유튜브에 업로드하고 있습니다.
 
 ## 녹음고 BOT을 채널에 추가
 
